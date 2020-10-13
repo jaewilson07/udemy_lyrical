@@ -1,0 +1,9 @@
+.collection {
+  padding: 5rem;
+
+  .collection-item {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+}

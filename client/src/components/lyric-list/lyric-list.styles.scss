@@ -1,0 +1,15 @@
+.lyric-list {
+  padding: 5rem;
+
+  .lyric {
+    display: flex;
+    justify-content: space-between;
+
+    cursor: pointer;
+
+    .lyric__icons {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+}
